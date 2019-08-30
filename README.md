@@ -12,3 +12,7 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
+Styles from Bootswatch
+The data I have used in this dashboard is taken from https://data.oecd.org © 2018 Organisation for Economic Co-operation and Development
+Using DC and D3
